@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Vitalie Jicol
 
-<!--
-**vitaliejicol/vitaliejicol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Specializing in **OpenShift, Ansible, Automation, DevOps, and Cloud-Native Solutions**  
+🌍 Passionate about helping organizations modernize infrastructure, adopt automation at scale, and accelerate cloud-native transformation.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- **Containers & Platforms**: OpenShift, Kubernetes, Docker  
+- **Automation & IaC**: Ansible, Terraform, GitOps  
+- **Clouds**: Hybrid Cloud, AWS, Azure, GCP  
+- **DevOps Practices**: CI/CD, Automation at Scale, Platform Engineering  
+
+---
+
+### 📈 What I’m working on
+- Building reusable **Terraform modules** for cloud-native environments  
+- Contributing to open-source projects around automation & DevOps  
