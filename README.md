@@ -17,3 +17,10 @@
 - Building reusable **Terraform modules** for cloud-native environments  
 - Contributing to open-source projects around automation & DevOps  
 
+---
+
+### 🤝 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitaliejicol/)  
+- 🐦 [Twitter](https://twitter.com/vitaliejicol) *(if you use it)*  
+- 🌐 [Personal Website / Blog](https://yourwebsite.com) *(optional)*  
+- ✉️ vitaliejicol@example.com *(optional)*  
