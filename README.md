@@ -21,6 +21,6 @@
 
 ### 🤝 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitaliejicol/)  
-- 🐦 [Twitter](https://twitter.com/vitaliejicol) *(if you use it)*  
-- 🌐 [Personal Website / Blog](https://yourwebsite.com) *(optional)*  
-- ✉️ vitaliejicol@example.com *(optional)*  
+- 🐦 [Twitter](https://twitter.com/vitaliejicol)
+- 🌐 [Medium Blog](https://medium.com/@vitaliejicol)
+- ✉️ vjicol@outlook.com  
