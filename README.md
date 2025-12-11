@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vitalie Jicol
 
-⚙️ Specializing in **OpenShift, Ansible, Automation, DevOps, and Cloud-Native Solutions**  
+⚙️ Specializing in **OpenShift, Ansible, Automation, DevOps, Terraform and Cloud-Native Solutions**  
 🌍 Passionate about helping organizations modernize infrastructure, adopt automation at scale, and accelerate cloud-native transformation.  
 
 ---
